@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d0d534b-56df-4005-8246-b6b564bf88ed" name="Default Changelist" comment="" />
+    <list default="true" id="3d0d534b-56df-4005-8246-b6b564bf88ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +20,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bCuwe7ioM2kJ88VRHbgECYrEoL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +36,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -105,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588148636718</updated>
-      <workItem from="1588148641576" duration="2916000" />
+      <workItem from="1588148641576" duration="4264000" />
     </task>
     <servers />
   </component>
@@ -169,6 +179,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="456" y="156" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.872@0.0.1368.872" timestamp="1588150582522" />
+    <state x="109" y="63" key="new project wizard" timestamp="1588153477957">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="109" y="63" key="new project wizard/0.0.1368.872@0.0.1368.872" timestamp="1588153477957" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
